@@ -10,7 +10,7 @@ function Header() {
             <h1 style={{ fontSize: "40px", color: "brown" }}>User Details With CRUD Operations</h1>
             <Button sx={{
                 marginLeft: {
-                    xs: "0px",
+                    xs: "0px", 
                     sm: "200px",
                     md: "300px",
                     lg: "400px",
